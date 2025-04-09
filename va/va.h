@@ -540,9 +540,10 @@ typedef enum {
     /** \brief Profile ID used for protected video playback. */
     VAProfileProtected                  = 35,
     VAProfileH264High10                 = 36,
-    VAProfileVVCMain10                  = 37,
-    VAProfileVVCMultilayerMain10        = 38,
-    VAProfileAV1Profile2                = 39
+    VAProfileH264High422                = 37,
+    VAProfileVVCMain10                  = 38,
+    VAProfileVVCMultilayerMain10        = 39,
+    VAProfileAV1Profile2                = 40
 } VAProfile;
 
 /**
